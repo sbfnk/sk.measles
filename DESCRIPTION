@@ -1,0 +1,23 @@
+Package: sk.measles
+Title: Code accompanying the manuscript "Estimating contact-adjusted immunity levels against measles in South Korea and prospects for maintaining elimination status"
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sebastian",
+           family = "Funk",
+           role = c("aut", "cre"),
+           email = "sebastian.funk@lshtm.ac.uk",
+           comment = c(ORCID = "0000-0002-2842-3406"))
+Description: Contains all the code and data required to generate the results presented in the manuscript.
+Depends:
+    R (>= 3.5.0)
+Imports:
+    socialmixr,
+    epimixr,
+    dplyr,
+    readr,
+    tidyr,
+    tibble
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
