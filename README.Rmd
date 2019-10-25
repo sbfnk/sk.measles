@@ -28,6 +28,7 @@ Or you can install this compendium as an R package, `sk.measles`, from GitHub wi
 
 ```{r gh-installation, eval = FALSE}
 # install.packages("remotes")
+# remotes::install_github("sbfnk/epimixr")
 remotes::install_github("sbfnk/sk.measles")
 ```
 

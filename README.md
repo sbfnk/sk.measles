@@ -20,6 +20,7 @@ GitHub with:
 
 ``` r
 # install.packages("remotes")
+# remotes::install_github("sbfnk/epimixr")
 remotes::install_github("sbfnk/sk.measles")
 ```
 
