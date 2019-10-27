@@ -36,7 +36,6 @@
 #' The data are described in Ibuka Y, et al. (2016) Social contacts, 
 #' vaccination decisions and influenza in Japan. 
 #' J Epidemiol Community Health 70:162-167.
-#' @format A tibble with twelve columns and twelve rows,
-#'   representing the contact matrix
+#' @format A 12x12 matrix representing the contact matrix
 #' @source{https://doi.org/10.1136/jech-2015-205777}
 "japan_contacts"
