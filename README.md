@@ -3,6 +3,8 @@
 
 # Estimating contact-adjusted immunity levels against measles in South Korea and prospects for maintaining elimination status
 
+> **Archived.** No longer maintained; last updated October 2019.
+
 This repository contains the data and code for our paper:
 
 > June Young Chun, Wan Beom Park, Nam Joong Kim, Eun Hwa Choi, Sebastian
